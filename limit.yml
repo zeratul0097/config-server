@@ -1,0 +1,12 @@
+---
+spring:
+  profiles: a
+limit:
+  min: 1
+  max: 123
+---
+spring:
+  profiles: b
+limit:
+  min: 2
+  max: 234
