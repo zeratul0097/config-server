@@ -2,11 +2,11 @@
 spring:
   profiles: a
 limit:
-  min: 1
-  max: 123
+  minimum: 1
+  maximum: 123
 ---
 spring:
   profiles: b
 limit:
-  min: 2
-  max: 234
+  minimum: 2
+  maximum: 234
