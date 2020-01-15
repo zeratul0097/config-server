@@ -1,0 +1,4 @@
+config-server:
+  limit:
+    min: 123
+    max: 456
