@@ -1,14 +1,4 @@
----
-spring:
-  profiles: dev
 limits-service:
   limit:
     max: 123
     min: 1
----
-spring:
-  profiles: test
-limits-service:
-  limit:
-    max: 456
-    min: 4
